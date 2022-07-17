@@ -1,0 +1,13 @@
+{
+  "name": "bme-server",
+  "version": "1.0.0",
+  "description": "a simple server to display bme280 readings",
+  "main": "src/index.js",
+  "author": "James McFarland",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "bme280": "^2.1.1",
+    "fastify": "^4.2.1"
+  }
+}
